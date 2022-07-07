@@ -19,7 +19,7 @@
 
 - 🔭 We're currently working on **Futuristic A.I. Model J.A.R.V.I.S**
 
-- 📫 How to reach me **ideohub4@gmail.com**
+- 📫 How to reach me **hindj063@gmail.com**
 
 - 👯 Wanna Help Us **Send Your Projects To Us and Help The World In Future...**
 
