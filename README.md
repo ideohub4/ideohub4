@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/KdzlXQsBRrwwsEtSgo/giphy.gif" width="60%" height="60%" />
+</div>
+
 <h1 align="center">This Is The Future Ideo Hub</h1>
 <h3 align="center">Creating A Portal To The Future!!!</h3>
 
